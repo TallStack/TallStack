@@ -12,3 +12,10 @@
 - ⚡ Fun fact: 💀recently found out my Normal Daily Lifestyle Is called Quarantine :trollface: 
 <!--
 - 🤔 I’m looking for help with ...-->
+
+<a href="https://github.com/TallStack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TallStack&hide=shell&theme=light&count_private=true&layout=compact" alt="TallStack's most used languages" />
+</a>
+<a href="https://github.com/TallStack">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=TallStack&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,contribs" alt="TallStack's github stats"/>
+</a>
