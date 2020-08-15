@@ -1,8 +1,5 @@
 ## Hi there👋, Keketso here👨‍💻
-[![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://linkedin.com/in/jainam-desai)
-[![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://linkedin.com/in/jainam-desai)
-<!--[![](https://img.icons8.com/windows/32/000000/hackerrank.png)](https://www.hackerrank.com/jainamd)
-[![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://th3c0d3br34ker.github.io)-->
+[![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://linkedin.com/in/Keketso-Ramosedi)
 ### Avid Gamer and Fullstack Developer
 
 - 🔭 I’m currently working at Astel Systems💚
