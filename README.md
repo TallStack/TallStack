@@ -3,7 +3,7 @@
 ### Avid Gamer, Fullstack Developer and Game Developer
 
 - 🔭 I’m currently working at Astel Systems💚
-- 🌱 I’m currently learning android development with Kotlin and Java
+- 🌱 I’m currently learning mobile app development with Kotlin, Java and Swift
 - 🙌 I’m looking to collaborate on open source projects
 - 🎮 Lets play together on xbox: TaiiStack
 - 💬 Ask me about anything really
