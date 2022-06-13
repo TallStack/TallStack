@@ -1,5 +1,5 @@
 ## Hi there👋, Keketso here👨‍💻
-[![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://linkedin.com/in/Keketso-Ramosedi)
+[![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://za.linkedin.com/in/keketso-ramosedi-6a23bb169)
 ### Avid Gamer, Fullstack Developer and Game Developer
 
 - 🔭 I’m currently working at Astel Systems💚
