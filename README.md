@@ -23,7 +23,7 @@
 <!-- Linux Typing -->
 
 <p align="center" style="background: #1c1c1c;">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=product+sans&amp;color=06ACBD&amp;center=true&amp;lines=Visit%20TallStackGameStudios;duration=7000">
+  <img src="https://readme-typing-svg.herokuapp.com?font=product+sans&amp;color=06ACBD&amp;center=true&amp;lines=Visit%20TallStackGameStudios&amp;duration=7000">
 </p>
 
 <!-- Visitor -->
