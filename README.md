@@ -19,3 +19,15 @@
 <a href="https://github.com/TallStack">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TallStack&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,contribs" alt="TallStack's github stats"/>
 </a>
+
+<!-- Linux Typing -->
+
+<p align="center" style="background: #1c1c1c;">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=product+sans&amp;color=06ACBD&amp;center=true&amp;lines=Visit%20TallStackGameStudios;duration=7000">
+</p>
+
+<!-- Visitor -->
+
+<p align="right">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=mattnix4&repo=mattnix4&countColor=%2308E8FF"/>
+</p>
