@@ -2,7 +2,7 @@
 [![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://za.linkedin.com/in/keketso-ramosedi-6a23bb169)
 ### Avid Gamer, Fullstack Developer and Game Developer
 
-- 🔭 I’m currently working at Astel Systems💚
+- 🔭 I’m currently working at Entelect💚
 - 🌱 I’m currently learning mobile app development with Kotlin, Java and Swift
 - 🙌 I’m looking to collaborate on open source projects
 - 🎮 Lets play together on xbox: TaiiStack
